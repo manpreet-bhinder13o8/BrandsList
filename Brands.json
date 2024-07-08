@@ -1,6 +1,5 @@
 [
     {
-        "Id": "A123",
         "BrandName": "Apple",
         "ProductName": "iPhone 13",
         "GraphicName": "iphone13.png",
@@ -11,7 +10,6 @@
         "Description": "The latest iPhone model with A15 Bionic chip and improved camera system."
     },
     {
-        "Id": "A124",
         "BrandName": "Apple",
         "ProductName": "MacBook Pro 14\"",
         "GraphicName": "macbookpro14.png",
@@ -22,7 +20,6 @@
         "Description": "Powerful laptop with M1 Pro chip, 16GB RAM, and 512GB SSD."
     },
     {
-        "Id": "A125",
         "BrandName": "Apple",
         "ProductName": "iPad Pro 11\"",
         "GraphicName": "ipadpro11.png",
@@ -33,7 +30,6 @@
         "Description": "Advanced tablet with M1 chip and Liquid Retina display."
     },
     {
-        "Id": "A126",
         "BrandName": "Apple",
         "ProductName": "Apple Watch Series 7",
         "GraphicName": "applewatch7.png",
@@ -44,7 +40,6 @@
         "Description": "Smartwatch with larger display and enhanced health tracking features."
     },
     {
-        "Id": "S123",
         "BrandName": "Samsung",
         "ProductName": "Samsung Galaxy S21",
         "GraphicName": "galaxys21.png",
@@ -55,7 +50,6 @@
         "Description": "High-end smartphone with Exynos 2100 chip and dynamic AMOLED display."
     },
     {
-        "Id": "S124",
         "BrandName": "Samsung",
         "ProductName": "Samsung Galaxy Tab S7",
         "GraphicName": "galaxytabs7.png",
@@ -66,7 +60,6 @@
         "Description": "Versatile tablet with Snapdragon 865+ and S Pen included."
     },
     {
-        "Id": "S125",
         "BrandName": "Samsung",
         "ProductName": "Samsung Galaxy Note 20",
         "GraphicName": "galaxynote20.png",
@@ -77,7 +70,6 @@
         "Description": "Powerful smartphone with S Pen and large AMOLED display."
     },
     {
-        "Id": "S126",
         "BrandName": "Samsung",
         "ProductName": "Samsung Galaxy Buds Pro",
         "GraphicName": "galaxybudspro.png",
@@ -88,7 +80,6 @@
         "Description": "Wireless earbuds with active noise cancellation and superior sound quality."
     },
     {
-        "Id": "S127",
         "BrandName": "Samsung",
         "ProductName": "Samsung QLED TV 55\"",
         "GraphicName": "qledtv55.png",
@@ -99,7 +90,6 @@
         "Description": "High-quality QLED TV with stunning picture quality and smart features."
     },
     {
-        "Id": "X123",
         "BrandName": "Xiaomi",
         "ProductName": "Xiaomi Mi 11",
         "GraphicName": "mi11.png",
@@ -110,7 +100,6 @@
         "Description": "Flagship smartphone with Snapdragon 888 and 108MP camera."
     },
     {
-        "Id": "X124",
         "BrandName": "Xiaomi",
         "ProductName": "Xiaomi Redmi Note 10",
         "GraphicName": "redminote10.png",
@@ -121,7 +110,6 @@
         "Description": "Affordable smartphone with Snapdragon 678 and AMOLED display."
     },
     {
-        "Id": "X125",
         "BrandName": "Xiaomi",
         "ProductName": "Xiaomi Mi Band 6",
         "GraphicName": "miband6.png",
@@ -132,7 +120,6 @@
         "Description": "Affordable fitness tracker with SpO2 sensor and AMOLED display."
     },
     {
-        "Id": "X126",
         "BrandName": "Xiaomi",
         "ProductName": "Xiaomi Mi TV Stick",
         "GraphicName": "mitvstick.png",
@@ -143,7 +130,6 @@
         "Description": "Portable streaming device with Android TV and voice remote."
     },
     {
-        "Id": "X127",
         "BrandName": "Xiaomi",
         "ProductName": "Xiaomi Mi Air Purifier 3H",
         "GraphicName": "miap3h.png",
@@ -154,7 +140,6 @@
         "Description": "Smart air purifier with HEPA filter and real-time air quality monitoring."
     },
     {
-        "Id": "X128",
         "BrandName": "Xiaomi",
         "ProductName": "Xiaomi Mi Electric Scooter Pro 2",
         "GraphicName": "miscooterpro2.png",
