@@ -1,0 +1,167 @@
+[
+    {
+        "Id": "A123",
+        "BrandId": 1,
+        "ProductName": "iPhone 13",
+        "GraphicName": "iphone13.png",
+        "CostPrice": 699.99,
+        "MSRP": 799.99,
+        "QtyOnHand": 50,
+        "QtyOnBackOrder": 20,
+        "Description": "The latest iPhone model with A15 Bionic chip and improved camera system."
+    },
+    {
+        "Id": "A124",
+        "BrandId": 1,
+        "ProductName": "MacBook Pro 14\"",
+        "GraphicName": "macbookpro14.png",
+        "CostPrice": 1799.99,
+        "MSRP": 1999.99,
+        "QtyOnHand": 30,
+        "QtyOnBackOrder": 10,
+        "Description": "Powerful laptop with M1 Pro chip, 16GB RAM, and 512GB SSD."
+    },
+    {
+        "Id": "A125",
+        "BrandId": 1,
+        "ProductName": "iPad Pro 11\"",
+        "GraphicName": "ipadpro11.png",
+        "CostPrice": 799.99,
+        "MSRP": 899.99,
+        "QtyOnHand": 40,
+        "QtyOnBackOrder": 15,
+        "Description": "Advanced tablet with M1 chip and Liquid Retina display."
+    },
+    {
+        "Id": "A126",
+        "BrandId": 1,
+        "ProductName": "Apple Watch Series 7",
+        "GraphicName": "applewatch7.png",
+        "CostPrice": 299.99,
+        "MSRP": 399.99,
+        "QtyOnHand": 60,
+        "QtyOnBackOrder": 20,
+        "Description": "Smartwatch with larger display and enhanced health tracking features."
+    },
+    {
+        "Id": "S123",
+        "BrandId": 2,
+        "ProductName": "Samsung Galaxy S21",
+        "GraphicName": "galaxys21.png",
+        "CostPrice": 599.99,
+        "MSRP": 699.99,
+        "QtyOnHand": 70,
+        "QtyOnBackOrder": 25,
+        "Description": "High-end smartphone with Exynos 2100 chip and dynamic AMOLED display."
+    },
+    {
+        "Id": "S124",
+        "BrandId": 2,
+        "ProductName": "Samsung Galaxy Tab S7",
+        "GraphicName": "galaxytabs7.png",
+        "CostPrice": 499.99,
+        "MSRP": 599.99,
+        "QtyOnHand": 40,
+        "QtyOnBackOrder": 15,
+        "Description": "Versatile tablet with Snapdragon 865+ and S Pen included."
+    },
+    {
+        "Id": "S125",
+        "BrandId": 2,
+        "ProductName": "Samsung Galaxy Note 20",
+        "GraphicName": "galaxynote20.png",
+        "CostPrice": 899.99,
+        "MSRP": 999.99,
+        "QtyOnHand": 50,
+        "QtyOnBackOrder": 25,
+        "Description": "Powerful smartphone with S Pen and large AMOLED display."
+    },
+    {
+        "Id": "S126",
+        "BrandId": 2,
+        "ProductName": "Samsung Galaxy Buds Pro",
+        "GraphicName": "galaxybudspro.png",
+        "CostPrice": 149.99,
+        "MSRP": 199.99,
+        "QtyOnHand": 80,
+        "QtyOnBackOrder": 30,
+        "Description": "Wireless earbuds with active noise cancellation and superior sound quality."
+    },
+    {
+        "Id": "S127",
+        "BrandId": 2,
+        "ProductName": "Samsung QLED TV 55\"",
+        "GraphicName": "qledtv55.png",
+        "CostPrice": 999.99,
+        "MSRP": 1199.99,
+        "QtyOnHand": 25,
+        "QtyOnBackOrder": 10,
+        "Description": "High-quality QLED TV with stunning picture quality and smart features."
+    },
+    {
+        "Id": "X123",
+        "BrandId": 3,
+        "ProductName": "Xiaomi Mi 11",
+        "GraphicName": "mi11.png",
+        "CostPrice": 499.99,
+        "MSRP": 599.99,
+        "QtyOnHand": 60,
+        "QtyOnBackOrder": 30,
+        "Description": "Flagship smartphone with Snapdragon 888 and 108MP camera."
+    },
+    {
+        "Id": "X124",
+        "BrandId": 3,
+        "ProductName": "Xiaomi Redmi Note 10",
+        "GraphicName": "redminote10.png",
+        "CostPrice": 199.99,
+        "MSRP": 249.99,
+        "QtyOnHand": 100,
+        "QtyOnBackOrder": 40,
+        "Description": "Affordable smartphone with Snapdragon 678 and AMOLED display."
+    },
+    {
+        "Id": "X125",
+        "BrandId": 3,
+        "ProductName": "Xiaomi Mi Band 6",
+        "GraphicName": "miband6.png",
+        "CostPrice": 29.99,
+        "MSRP": 49.99,
+        "QtyOnHand": 150,
+        "QtyOnBackOrder": 50,
+        "Description": "Affordable fitness tracker with SpO2 sensor and AMOLED display."
+    },
+    {
+        "Id": "X126",
+        "BrandId": 3,
+        "ProductName": "Xiaomi Mi TV Stick",
+        "GraphicName": "mitvstick.png",
+        "CostPrice": 39.99,
+        "MSRP": 59.99,
+        "QtyOnHand": 90,
+        "QtyOnBackOrder": 35,
+        "Description": "Portable streaming device with Android TV and voice remote."
+    },
+    {
+        "Id": "X127",
+        "BrandId": 3,
+        "ProductName": "Xiaomi Mi Air Purifier 3H",
+        "GraphicName": "miap3h.png",
+        "CostPrice": 129.99,
+        "MSRP": 149.99,
+        "QtyOnHand": 70,
+        "QtyOnBackOrder": 25,
+        "Description": "Smart air purifier with HEPA filter and real-time air quality monitoring."
+    },
+    {
+        "Id": "X128",
+        "BrandId": 3,
+        "ProductName": "Xiaomi Mi Electric Scooter Pro 2",
+        "GraphicName": "miscooterpro2.png",
+        "CostPrice": 499.99,
+        "MSRP": 599.99,
+        "QtyOnHand": 40,
+        "QtyOnBackOrder": 20,
+        "Description": "Electric scooter with long battery life and powerful motor."
+    }
+]
