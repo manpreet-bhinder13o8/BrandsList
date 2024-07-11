@@ -42,7 +42,7 @@
     {
         "BrandId": 2,
         "ProductName": "LG",
-        "GraphicName": "LG_C1_OLED_TV.png",
+        "GraphicName": "LG_C1_OLED_TV.jpg",
         "CostPrice": 1499.99,
         "MSRP": 1799.99,
         "QtyOnHand": 70,
@@ -52,7 +52,7 @@
     {
         "BrandId": 2,
         "ProductName": "LG",
-        "GraphicName": "LG_Gram_16.png",
+        "GraphicName": "LG_Gram_16.jpg",
         "CostPrice": 1099.99,
         "MSRP": 1299.99,
         "QtyOnHand": 40,
@@ -62,7 +62,7 @@
     {
         "BrandId": 2,
         "ProductName": "LG",
-        "GraphicName": "LG_UltraGear_Monitor.png",
+        "GraphicName": "LG_UltraGear_Monitor.jpg",
         "CostPrice": 399.99,
         "MSRP": 499.99,
         "QtyOnHand": 50,
@@ -72,7 +72,7 @@
     {
         "BrandId": 2,
         "ProductName": "LG",
-        "GraphicName": "LG_Tone_Free_Earbuds.png",
+        "GraphicName": "LG_Tone_Free_Earbuds.jpg",
         "CostPrice": 129.99,
         "MSRP": 179.99,
         "QtyOnHand": 80,
@@ -82,7 +82,7 @@
     {
         "BrandId": 2,
         "ProductName": "LG",
-        "GraphicName": "LG_NanoCell_TV_65.png",
+        "GraphicName": "LG_NanoCell_TV_65.jpg",
         "CostPrice": 899.99,
         "MSRP": 1099.99,
         "QtyOnHand": 25,
