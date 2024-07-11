@@ -1,138 +1,138 @@
 [
     {
         "BrandId": 1,
-        "ProductName": "Apple",
-        "GraphicName": "iPhone 13",
-        "CostPrice": 699.99,
-        "MSRP": 799.99,
+        "ProductName": "Sony",
+        "GraphicName": "Sony PlayStation 5",
+        "CostPrice": 499.99,
+        "MSRP": 599.99,
         "QtyOnHand": 50,
         "QtyOnBackOrder": 20,
-        "Description": "The latest iPhone model with A15 Bionic chip and improved camera system."
+        "Description": "The latest gaming console with advanced graphics and processing power."
     },
     {
         "BrandId": 1,
-        "ProductName": "Apple",
-        "GraphicName": "MacBook Pro 14\"",
-        "CostPrice": 1799.99,
-        "MSRP": 1999.99,
+        "ProductName": "Sony",
+        "GraphicName": "Sony WH-1000XM4",
+        "CostPrice": 299.99,
+        "MSRP": 349.99,
         "QtyOnHand": 30,
         "QtyOnBackOrder": 10,
-        "Description": "Powerful laptop with M1 Pro chip, 16GB RAM, and 512GB SSD."
+        "Description": "Noise-canceling wireless headphones with superior sound quality."
     },
     {
         "BrandId": 1,
-        "ProductName": "Apple",
-        "GraphicName": "iPad Pro 11\"",
-        "CostPrice": 799.99,
-        "MSRP": 899.99,
-        "QtyOnHand": 40,
-        "QtyOnBackOrder": 15,
-        "Description": "Advanced tablet with M1 chip and Liquid Retina display."
-    },
-    {
-        "BrandId": 1,
-        "ProductName": "Apple",
-        "GraphicName": "Apple Watch Series 7",
-        "CostPrice": 299.99,
-        "MSRP": 399.99,
-        "QtyOnHand": 60,
-        "QtyOnBackOrder": 20,
-        "Description": "Smartwatch with larger display and enhanced health tracking features."
-    },
-    {
-        "BrandId": 2,
-        "ProductName": "Samsung",
-        "GraphicName": "Samsung Galaxy S21",
-        "CostPrice": 599.99,
-        "MSRP": 699.99,
-        "QtyOnHand": 70,
-        "QtyOnBackOrder": 25,
-        "Description": "High-end smartphone with Exynos 2100 chip and dynamic AMOLED display."
-    },
-    {
-        "BrandId": 2,
-        "ProductName": "Samsung",
-        "GraphicName": "Samsung Galaxy Tab S7",
-        "CostPrice": 499.99,
-        "MSRP": 599.99,
-        "QtyOnHand": 40,
-        "QtyOnBackOrder": 15,
-        "Description": "Versatile tablet with Snapdragon 865+ and S Pen included."
-    },
-    {
-        "BrandId": 2,
-        "ProductName": "Samsung",
-        "GraphicName": "Samsung Galaxy Note 20",
-        "CostPrice": 899.99,
-        "MSRP": 999.99,
-        "QtyOnHand": 50,
-        "QtyOnBackOrder": 25,
-        "Description": "Powerful smartphone with S Pen and large AMOLED display."
-    },
-    {
-        "BrandId": 2,
-        "ProductName": "Samsung",
-        "GraphicName": "Samsung Galaxy Buds Pro",
-        "CostPrice": 149.99,
-        "MSRP": 199.99,
-        "QtyOnHand": 80,
-        "QtyOnBackOrder": 30,
-        "Description": "Wireless earbuds with active noise cancellation and superior sound quality."
-    },
-    {
-        "BrandId": 2,
-        "ProductName": "Samsung",
-        "GraphicName": "Samsung QLED TV 55\"",
+        "ProductName": "Sony",
+        "GraphicName": "Sony Bravia 55\"",
         "CostPrice": 999.99,
         "MSRP": 1199.99,
+        "QtyOnHand": 40,
+        "QtyOnBackOrder": 15,
+        "Description": "4K Ultra HD smart TV with stunning picture quality."
+    },
+    {
+        "BrandId": 1,
+        "ProductName": "Sony",
+        "GraphicName": "Sony Alpha a7 III",
+        "CostPrice": 1799.99,
+        "MSRP": 1999.99,
+        "QtyOnHand": 60,
+        "QtyOnBackOrder": 20,
+        "Description": "Full-frame mirrorless camera with exceptional image quality."
+    },
+    {
+        "BrandId": 2,
+        "ProductName": "LG",
+        "GraphicName": "LG C1 OLED TV",
+        "CostPrice": 1499.99,
+        "MSRP": 1799.99,
+        "QtyOnHand": 70,
+        "QtyOnBackOrder": 25,
+        "Description": "OLED TV with self-lighting pixels for perfect blacks and vibrant colors."
+    },
+    {
+        "BrandId": 2,
+        "ProductName": "LG",
+        "GraphicName": "LG Gram 16\"",
+        "CostPrice": 1099.99,
+        "MSRP": 1299.99,
+        "QtyOnHand": 40,
+        "QtyOnBackOrder": 15,
+        "Description": "Ultra-lightweight laptop with long battery life and powerful performance."
+    },
+    {
+        "BrandId": 2,
+        "ProductName": "LG",
+        "GraphicName": "LG UltraGear Monitor",
+        "CostPrice": 399.99,
+        "MSRP": 499.99,
+        "QtyOnHand": 50,
+        "QtyOnBackOrder": 25,
+        "Description": "High-performance gaming monitor with fast refresh rate and low input lag."
+    },
+    {
+        "BrandId": 2,
+        "ProductName": "LG",
+        "GraphicName": "LG Tone Free Earbuds",
+        "CostPrice": 129.99,
+        "MSRP": 179.99,
+        "QtyOnHand": 80,
+        "QtyOnBackOrder": 30,
+        "Description": "Wireless earbuds with active noise cancellation and UV nano charging case."
+    },
+    {
+        "BrandId": 2,
+        "ProductName": "LG",
+        "GraphicName": "LG NanoCell TV 65\"",
+        "CostPrice": 899.99,
+        "MSRP": 1099.99,
         "QtyOnHand": 25,
         "QtyOnBackOrder": 10,
-        "Description": "High-quality QLED TV with stunning picture quality and smart features."
+        "Description": "4K smart TV with NanoCell technology for enhanced color and clarity."
     },
     {
         "BrandId": 3,
-        "ProductName": "Xiaomi",
-        "GraphicName": "Xiaomi Mi 11",
-        "CostPrice": 499.99,
-        "MSRP": 599.99,
+        "ProductName": "Panasonic",
+        "GraphicName": "Panasonic Lumix GH5",
+        "CostPrice": 1299.99,
+        "MSRP": 1499.99,
         "QtyOnHand": 60,
         "QtyOnBackOrder": 30,
-        "Description": "Flagship smartphone with Snapdragon 888 and 108MP camera."
+        "Description": "Mirrorless camera with 4K video recording and high-resolution photo capture."
     },
     {
         "BrandId": 3,
-        "ProductName": "Xiaomi",
-        "GraphicName": "Xiaomi Redmi Note 10",
+        "ProductName": "Panasonic",
+        "GraphicName": "Panasonic 4K Blu-ray Player",
         "CostPrice": 199.99,
         "MSRP": 249.99,
         "QtyOnHand": 100,
         "QtyOnBackOrder": 40,
-        "Description": "Affordable smartphone with Snapdragon 678 and AMOLED display."
+        "Description": "High-quality Blu-ray player with 4K upscaling and HDR support."
     },
     {
         "BrandId": 3,
-        "ProductName": "Xiaomi",
-        "GraphicName": "Xiaomi Mi Band 6",
+        "ProductName": "Panasonic",
+        "GraphicName": "Panasonic ErgoFit Earbuds",
         "CostPrice": 29.99,
         "MSRP": 49.99,
         "QtyOnHand": 150,
         "QtyOnBackOrder": 50,
-        "Description": "Affordable fitness tracker with SpO2 sensor and AMOLED display."
+        "Description": "Comfortable and affordable wired earbuds with enhanced bass."
     },
     {
         "BrandId": 3,
-        "ProductName": "Xiaomi",
-        "GraphicName": "Xiaomi Mi TV Stick",
-        "CostPrice": 39.99,
-        "MSRP": 59.99,
+        "ProductName": "Panasonic",
+        "GraphicName": "Panasonic Compact Oven",
+        "CostPrice": 249.99,
+        "MSRP": 299.99,
         "QtyOnHand": 90,
         "QtyOnBackOrder": 35,
-        "Description": "Portable streaming device with Android TV and voice remote."
+        "Description": "Countertop oven with convection baking and fast preheat technology."
     },
     {
         "BrandId": 3,
-        "ProductName": "Xiaomi",
-        "GraphicName": "Xiaomi Mi Air Purifier 3H",
+        "ProductName": "Panasonic",
+        "GraphicName": "Panasonic Air Purifier",
         "CostPrice": 129.99,
         "MSRP": 149.99,
         "QtyOnHand": 70,
@@ -141,12 +141,12 @@
     },
     {
         "BrandId": 3,
-        "ProductName": "Xiaomi",
-        "GraphicName": "Xiaomi Mi Electric Scooter Pro 2",
-        "CostPrice": 499.99,
-        "MSRP": 599.99,
+        "ProductName": "Panasonic",
+        "GraphicName": "Panasonic Electric Bike",
+        "CostPrice": 999.99,
+        "MSRP": 1199.99,
         "QtyOnHand": 40,
         "QtyOnBackOrder": 20,
-        "Description": "Electric scooter with long battery life and powerful motor."
+        "Description": "Electric bike with powerful motor and long battery life for extended rides."
     }
 ]
