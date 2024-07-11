@@ -12,7 +12,7 @@
     {
         "BrandId": 1,
         "ProductName": "Sony",
-        "GraphicName": "SonyWH-1000XM4.png",
+        "GraphicName": "SonyWH_1000XM4.png",
         "CostPrice": 299.99,
         "MSRP": 349.99,
         "QtyOnHand": 30,
@@ -102,7 +102,7 @@
     {
         "BrandId": 3,
         "ProductName": "Panasonic",
-        "GraphicName": "Panasonic_4K_Blu-ray_Player.png",
+        "GraphicName": "Panasonic_4K_Bluray_Player.png",
         "CostPrice": 199.99,
         "MSRP": 249.99,
         "QtyOnHand": 100,
