@@ -2,7 +2,7 @@
     {
         "BrandId": 1,
         "ProductName": "Sony",
-        "GraphicName": "Sony PlayStation 5",
+        "GraphicName": "SonyPlayStation5.png",
         "CostPrice": 499.99,
         "MSRP": 599.99,
         "QtyOnHand": 50,
@@ -12,7 +12,7 @@
     {
         "BrandId": 1,
         "ProductName": "Sony",
-        "GraphicName": "Sony WH-1000XM4",
+        "GraphicName": "SonyWH-1000XM4.png",
         "CostPrice": 299.99,
         "MSRP": 349.99,
         "QtyOnHand": 30,
@@ -22,7 +22,7 @@
     {
         "BrandId": 1,
         "ProductName": "Sony",
-        "GraphicName": "Sony Bravia 55\"",
+        "GraphicName": "Sony_Bravia_55.png",
         "CostPrice": 999.99,
         "MSRP": 1199.99,
         "QtyOnHand": 40,
@@ -32,7 +32,7 @@
     {
         "BrandId": 1,
         "ProductName": "Sony",
-        "GraphicName": "Sony Alpha a7 III",
+        "GraphicName": "Sony_Alpha_a7_III.png",
         "CostPrice": 1799.99,
         "MSRP": 1999.99,
         "QtyOnHand": 60,
@@ -42,7 +42,7 @@
     {
         "BrandId": 2,
         "ProductName": "LG",
-        "GraphicName": "LG C1 OLED TV",
+        "GraphicName": "LG_C1_OLED_TV.png",
         "CostPrice": 1499.99,
         "MSRP": 1799.99,
         "QtyOnHand": 70,
@@ -52,7 +52,7 @@
     {
         "BrandId": 2,
         "ProductName": "LG",
-        "GraphicName": "LG Gram 16\"",
+        "GraphicName": "LG_Gram_16.png",
         "CostPrice": 1099.99,
         "MSRP": 1299.99,
         "QtyOnHand": 40,
@@ -62,7 +62,7 @@
     {
         "BrandId": 2,
         "ProductName": "LG",
-        "GraphicName": "LG UltraGear Monitor",
+        "GraphicName": "LG_UltraGear_Monitor.png",
         "CostPrice": 399.99,
         "MSRP": 499.99,
         "QtyOnHand": 50,
@@ -72,7 +72,7 @@
     {
         "BrandId": 2,
         "ProductName": "LG",
-        "GraphicName": "LG Tone Free Earbuds",
+        "GraphicName": "LG_Tone_Free_Earbuds.png",
         "CostPrice": 129.99,
         "MSRP": 179.99,
         "QtyOnHand": 80,
@@ -82,7 +82,7 @@
     {
         "BrandId": 2,
         "ProductName": "LG",
-        "GraphicName": "LG NanoCell TV 65\"",
+        "GraphicName": "LG_NanoCell_TV_65.png",
         "CostPrice": 899.99,
         "MSRP": 1099.99,
         "QtyOnHand": 25,
@@ -92,7 +92,7 @@
     {
         "BrandId": 3,
         "ProductName": "Panasonic",
-        "GraphicName": "Panasonic Lumix GH5",
+        "GraphicName": "Panasonic_Lumix_GH5.png",
         "CostPrice": 1299.99,
         "MSRP": 1499.99,
         "QtyOnHand": 60,
@@ -102,7 +102,7 @@
     {
         "BrandId": 3,
         "ProductName": "Panasonic",
-        "GraphicName": "Panasonic 4K Blu-ray Player",
+        "GraphicName": "Panasonic_4K_Blu-ray_Player.png",
         "CostPrice": 199.99,
         "MSRP": 249.99,
         "QtyOnHand": 100,
@@ -112,7 +112,7 @@
     {
         "BrandId": 3,
         "ProductName": "Panasonic",
-        "GraphicName": "Panasonic ErgoFit Earbuds",
+        "GraphicName": "Panasonic_ErgoFit_Earbuds.png",
         "CostPrice": 29.99,
         "MSRP": 49.99,
         "QtyOnHand": 150,
@@ -122,7 +122,7 @@
     {
         "BrandId": 3,
         "ProductName": "Panasonic",
-        "GraphicName": "Panasonic Compact Oven",
+        "GraphicName": "Panasonic_Compact_Oven.png",
         "CostPrice": 249.99,
         "MSRP": 299.99,
         "QtyOnHand": 90,
@@ -132,7 +132,7 @@
     {
         "BrandId": 3,
         "ProductName": "Panasonic",
-        "GraphicName": "Panasonic Air Purifier",
+        "GraphicName": "Panasonic_Air_Purifier.png",
         "CostPrice": 129.99,
         "MSRP": 149.99,
         "QtyOnHand": 70,
@@ -142,7 +142,7 @@
     {
         "BrandId": 3,
         "ProductName": "Panasonic",
-        "GraphicName": "Panasonic Electric Bike",
+        "GraphicName": "Panasonic_Electric_Bike.png",
         "CostPrice": 999.99,
         "MSRP": 1199.99,
         "QtyOnHand": 40,
