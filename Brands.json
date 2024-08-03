@@ -13,10 +13,10 @@
         "BrandId": 1,
         "ProductName": "Sony",
         "GraphicName": "SonyWH_1000XM4.png",
-        "CostPrice": 299.99,
+        "CostPrice": 509.99,
         "MSRP": 349.99,
-        "QtyOnHand": 30,
-        "QtyOnBackOrder": 10,
+        "QtyOnHand": 1,
+        "QtyOnBackOrder": 0,
         "Description": "Noise-canceling wireless headphones with superior sound quality."
     },
     {
@@ -134,9 +134,9 @@
         "ProductName": "Panasonic",
         "GraphicName": "Panasonic_Air_Purifier.png",
         "CostPrice": 129.99,
-        "MSRP": 149.99,
-        "QtyOnHand": 70,
-        "QtyOnBackOrder": 25,
+        "MSRP": 599.99,
+        "QtyOnHand": 1,
+        "QtyOnBackOrder": 0,
         "Description": "Smart air purifier with HEPA filter and real-time air quality monitoring."
     },
     {
